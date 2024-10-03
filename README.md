@@ -1,3 +1,5 @@
+
+
 # Homies Sketch
 
 **Create and share your personal professional profile with all your important links in one place.**
@@ -7,6 +9,8 @@
 ## Overview
 
 **Homies Sketch** is an intuitive platform where users can create personalized profiles, linking to their professional and social media accounts, portfolios, and more. Whether it's for networking or sharing with potential clients or collaborators, **Homies Sketch** lets users display their most important details in a sleek, professional layout. 
+
+![Homies Sketch Preview](Homies-Sketch/test.png)
 
 ---
 
