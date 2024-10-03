@@ -10,7 +10,7 @@
 
 **Homies Sketch** is an intuitive platform where users can create personalized profiles, linking to their professional and social media accounts, portfolios, and more. Whether it's for networking or sharing with potential clients or collaborators, **Homies Sketch** lets users display their most important details in a sleek, professional layout. 
 
-![Homies Sketch Preview](Homies-Sketch/test.png)
+![Homies Sketch Preview](https://raw.githubusercontent.com/Divith123/Homies-Sketch/refs/heads/main/test.png)
 
 ---
 
